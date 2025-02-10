@@ -19,8 +19,5 @@
 - Automating workflows with CI/CD  
 - Scalable & resilient cloud architectures  
 
-## 📫 How to reach me  
-- Email: h.leonardo.dev89@gmail.com 
-
 ## ⚡ Fun fact  
 I automate everything—even my coffee machine! ☕😆  
