@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @CodePhantom08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @CodePhantom08  
+🚀 Passionate about DevOps, Automation, and Cloud Technologies!  
 
-<!---
-CodePhantom08/CodePhantom08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 I’m interested in  
+- Cloud Computing (AWS, Azure, GCP)  
+- CI/CD Pipelines & Automation  
+- Infrastructure as Code (Terraform, Ansible)  
+- Kubernetes & Docker  
+- Monitoring & Logging (Prometheus, Grafana, ELK)  
+
+## 🌱 I’m currently learning  
+- Advanced Kubernetes & Helm Charts  
+- GitOps with ArgoCD & FluxCD  
+- Security & Compliance in DevOps  
+- Serverless Architectures  
+
+## 💞️ I’m looking to collaborate on  
+- Open-source DevOps tools  
+- Automating workflows with CI/CD  
+- Scalable & resilient cloud architectures  
+
+## 📫 How to reach me  
+- Email: h.leonardo.dev89@gmail.com 
+m  
+
+## ⚡ Fun fact  
+I automate everything—even my coffee machine! ☕😆  
