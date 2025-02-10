@@ -21,7 +21,6 @@
 
 ## 📫 How to reach me  
 - Email: h.leonardo.dev89@gmail.com 
-m  
 
 ## ⚡ Fun fact  
 I automate everything—even my coffee machine! ☕😆  
